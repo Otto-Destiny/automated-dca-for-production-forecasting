@@ -1,6 +1,6 @@
 # Automated DCA Forecasting for Oil Wells
 
-<img src="./images/cell_35_output_00.png" alt="Automated DCA forecast" width="700"/>
+<img src="./images/cell_35_output_00.png" alt="Automated DCA forecast" width="800"/>
 
 This project implements a practical production-engineering DCA workflow: historical oil-rate data are conditioned, a hyperbolic decline model is calibrated with constrained optimization, and the calibrated decline is projected into future months for surveillance-ready forecasting. The notebook is intentionally compact, but the modeling logic is rigorous and reproducible.
 

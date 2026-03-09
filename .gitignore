@@ -20,8 +20,6 @@ dist/
 .ruff_cache/
 
 # Local data and generated outputs
-data/*.csv
-output_data.csv
 ProdForecast.html
 4.2.0
 
