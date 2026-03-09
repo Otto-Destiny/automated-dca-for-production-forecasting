@@ -1,0 +1,31 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build and tooling
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local data and generated outputs
+data/*.csv
+output_data.csv
+ProdForecast.html
+4.2.0
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
